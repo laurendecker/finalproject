@@ -1,0 +1,24 @@
+22
+Renata Boyd      19 L slap  OF IN  0  6  5 .325 0   -1    2.80 19
+Lauren Decker    18 L slap  P  OF  0  4  4 .350 0   2.06  2.85 10
+Grace Gonzales   19 R swing IN C   3 16 18 .275 2.5 -1    3.58 3
+Clara Larson     22 R swing IN IN 17 25 28 .475 0   -1    2.95 5
+Tanya Grove      16 R swing P  P   0 14 15 .289 0   1.03  2.90 9
+Riley James      17 L swing OF IN  6  7  7 .367 0   -1    3.12 7
+Georgia Freed    15 R swing C  IN 10  5  5 .416 2.3 -1    3.25 4
+Ally Brown       20 L slap  OF OF  1  8  7 .506 0   -1    2.70 17
+Sydney Marchando 21 R swing P  IN  4 14 18 .277 0   1.54  2.86 13
+Haley Banks      17 R swing C  IN  7 18 25 .145 3.4 -1    3.59 2
+Emilee Sloan     18 R swing OF OF  1  9 18 .275 0   -1    3.11 14
+Stef Brunello    22 R swing IN IN  5 20 30 .355 0   -1    2.91 21
+Claire Smith     15 L swing IN OF  2  1  2 .450 0   -1    3.31 7
+Danika Ybarra    17 L slap  IN OF  0 13 14 .560 0   -1    2.77 15
+Maria Lopez      19 L slap  P  IN  0 12 15 .430 0   4.23  3.22 9
+Shae Nelson      15 R swing C  OF 14 20 23 .488 2.5 -1    3.57 2
+Jamie Robinson   21 L swing IN OF 12 13 22 .345 0   -1    3.21 14
+Alexandra Marx   16 R swing P  IN  2 14 17 .205 0   3.84  3.78 5
+Anika Bjornson   18 R swing C  IN  7 15 19 .234 3.1 -1    3.10 13
+Leina Belong     19 L swing IN  P  9  9 10 .308 0   4.99  2.98 6
+Kamryn Mobley    20 L slap  C  IN  6  5  8 .401 2.9 -1    3.42 10
+Emily Churchill  18 R swing IN IN 17 14 16 .459 0   -1    3.66 4
+
